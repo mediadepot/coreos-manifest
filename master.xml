@@ -8,7 +8,8 @@
 Your sources have been sync'd successfully.
   </notice>
 
-  <project path="src/scripts" name="coreos/scripts"
+  <project path="src/scripts" name="mediadepot/coreos-scripts"
+           revision="mediadepot"
            groups="minilayout" />
 
   <project path="src/third_party/portage-stable"
