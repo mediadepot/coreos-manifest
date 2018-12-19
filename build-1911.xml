@@ -20,7 +20,7 @@
   <project groups="minilayout" name="coreos/fero" path="src/third_party/fero" revision="925edc93e58a6948bd1beeca888aa62b0ca270dc" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/grub" path="src/third_party/grub" revision="0863c013179c5addee289fb4037e6df39ca4e351" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/ignition" path="src/third_party/ignition" revision="0c622aba01ae82d18b77190bd814151c924dec68" upstream="refs/heads/master"/>
-  <project groups="minilayout" name="coreos/init" path="src/third_party/init" revision="63dbf7d8d755d51a80dd48837b54fc7199d7d084" upstream="refs/heads/master"/>
+  <project groups="minilayout" name="mediadepot/coreos-init" path="src/third_party/init" revision="ref/heads/mediadepot" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/locksmith" path="src/third_party/locksmith" revision="ba572048b6baf84b4488656ca4f8b115243ab3d5" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/mantle" path="src/third_party/mantle" revision="356a447e519df0522b48daae9771033e5a40801f" upstream="refs/heads/master"/>
   <project groups="minilayout" name="coreos/mayday" path="src/third_party/mayday" revision="78318a5760bea08ff5a76779a070c2c8fbea2939" upstream="refs/heads/master"/>
